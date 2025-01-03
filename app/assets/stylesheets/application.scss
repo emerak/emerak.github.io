@@ -1,0 +1,16 @@
+@use "bulma";
+:root {
+  --bulma-primary-h: 338;
+  --bulma-primary-s: 54%;
+  --bulma-primary-l: 60%;
+  --bulma-link-text: #f4d6e3;
+  --bulma-link-text-hover: #f4d6e3;
+  //--bulma-link-text-active:
+}
+
+.hero {
+  background-image: url("/hero.jpg");
+  background-size: cover;
+  background-position: 100% 50%;
+}
+
